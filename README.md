@@ -38,7 +38,7 @@ También debemos tomar en cuenta que este tipo de lámpara son utilizadas en muc
 En la figura de abajo vamos a ilustrar La altura del poste o la altura a la que se piensa a colocar la lámpara o luminaria.
 Debemos tomar en cuenta que estas cifras son en en función de la cantidad de área que se pretende iluminar y la cantidad de luz con la que se pretenda proveer a ese espacio.
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/ilumi.jpg)
 
 Es necesario también ubicar los puntos que indiquen la ubicación de los postes de luz sobre el polígono generado a través de un mapa para conocer que partes de las vialidades pueden estar siendo ignoradas o en otras palabras, que no están siendo iluminadas, para buscar otros puntos estratégicos que ayuden a mantener el máximo porcentaje de la vialidad iluminada.
 
