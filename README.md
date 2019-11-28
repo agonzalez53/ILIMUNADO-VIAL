@@ -59,7 +59,8 @@ Actualmente los luminarios convencionales para el alumbrado público de vialidad
 
 * Generador electrónico de alta frecuencia para operar una lámpara tubular rectangular de in-ducción electromagnética con arillos inductores externos con potencias de 80 o 120 W.
 
-![PalabrasdelTextoAlternativo]()
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/mapa.jpg)
+
 * Receptáculo superior para incorporar foto interruptor electrónico para el control automático del encendido y apagado.
 * Sistema de montaje del luminario mediante adaptador horizontal ajustable con entrada para brazo a poste y/o acoplamiento vertical para colocación en punta de poste.
 
@@ -72,5 +73,53 @@ Actualmente los luminarios convencionales para el alumbrado público de vialidad
 # 1.	Tratamiento de datos
 
 El programa tomara los datos recaba-dos de archivos vectoriales, que el usuario ingrese en este, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poli.jpg)
+
+Archivo vectorial de la mancha urbana del municipio de Coquimatlán.
+
+2.	Plataforma
+
+Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma.
+
+3.	Programas
+
+El programa que tiene una gran rele-vancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de li-brerías que podrán facilitar estos proce-dimientos.
+
+# 2.2. 	Resultados
+
+# Tratamiento de datos
+
+El programa tomara los datos recabados de archivos vectoriales, que el usuario ingrese en este, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poli.jpg)
+
+Archivo vectorial de la mancha urbana del muni-cipio de Coquimatlán.
+
+Se pretende que este programa funcioné con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma.
+Programas
+El programa que tiene una gran relevancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de librerías que podrán facilitar estos procedimientos.
+
+Las coordenadas que se mandan llamar por medio de un código ya establecido hacen que se relacionen con  lugares en la tierra reales. La decisión sobre el sistema de proyecciones y el sistema de coordenadas de referencia a usar depende de la zona que se desea trabajar, del análisis que se pretende hacer y  a menudo de la disponibilidad.
+
+También como el sistema de proyecciones de coordenadas existen otra forma de representar la tierra que es muy útil y en este caso a noso-tros nos facilitó un poco más las cosas para poder llevar con mayor facilidad el proyecto para representar la forma del lugar donde será el estudio.
+
+Pueden existir algunos problemas con este enfoque, ya que en la mayoría se consérvenla mayor parte de la forma de la tierra e ilustra la configuración espacial de los objetos del tamaño continental.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poli%20pun.jpg)
+
+En esta muestra ya se dan a conocer los puntos la localización que son los que se buscan para tener mejor la iluminación, son los que se pre-tenden instalar para que en esta área que se llevó el proyecto en práctica  tenga una mejor ycómoda iluminación para los habitantes de esta colonia del municipio de Coquimatlán.
+
+Para poder llegar a tener la localización de cada punto estos fueron llamados de un archivo en  con extensión  de csv. Que  se tenían   con coordenadas. 
+
+Una vez que ya se tenían las coordenadas esto trajo consigo cada punto como se muestra en la imagen. Teniendo también con este procesa-miento se puede obtener el área total de la su-perficie a trabajar y tener en cuenta los gastos que se llegaran a utilizar en un proyecto como este si es que se llevara a la vida cotidiana.
+
+Posteriormente ya que se ubicaron los punto  y se obtuvo el área en una base de dato se guar-daron todo los datos obtenidos, llamándole a esta base de datos postes de luz.
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poste.jpg)
+
+Finalmente todos los datos obtenidos de dicho código de dicho proyecto quedaran guardados  en esta base de datos.
+
+
 
 
