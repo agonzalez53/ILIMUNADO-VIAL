@@ -59,6 +59,7 @@ Actualmente los luminarios convencionales para el alumbrado público de vialidad
 
 * Generador electrónico de alta frecuencia para operar una lámpara tubular rectangular de in-ducción electromagnética con arillos inductores externos con potencias de 80 o 120 W.
 
+![PalabrasdelTextoAlternativo]()
 * Receptáculo superior para incorporar foto interruptor electrónico para el control automático del encendido y apagado.
 * Sistema de montaje del luminario mediante adaptador horizontal ajustable con entrada para brazo a poste y/o acoplamiento vertical para colocación en punta de poste.
 
