@@ -131,6 +131,48 @@ Finalmente todos los datos obtenidos de dicho código de dicho proyecto quedaran
 
 # CODIGO
 
+capa = QgsVectorLayer(data_source, layer_name, provider_name)
+if not layer.isValid():
+  print "Layer failed to load!"
+#creamos una memoria layer
+mem_layer = QgsVectorLayer("Point?crs=epsg:4326&field=id:integer""&field=area:double&index=yes",
+                            "Points",
+                            "memory")
+                              
+  
+#agregamos un mapa
+QgsMapLayerRegistry.instance().addMapLayer(mem_layer)
+  
+#Preparamos el mapa para editar
+mem_layer.startEditing()
+  
+#agregamos puntos
+points = [QgsPoint(-150,61),QgsPoint(-151,61),QgsPoint(-151,62)]
+ 
+#calculamos el numero de puntos
+n = len(points)
+if n <= 0:
+    print ("area =", n*5)
+feature = []
+ 
+for i in range(n):
+    feat =QgsFeature()
+    feature.append(feat)
+
+  
+#set attributes values 
+for i in range(n):
+    feature[i].setGeometry(QgsGeometry.fromPoint(points[i]))  #Set geometry
+    feature[i].setAttributes([i,area[i]])
+    mem_layer.addFeature(feature[i], True)
+  
+#paramos la edicion
+mem_layer.commitChanges()
+ 
+#hacemos zoom a la layer y la activmos
+iface.zoomToActiveLayer()
+
+
 # PÓSTER
 
 ![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/POSTER.jpg)
