@@ -125,7 +125,7 @@ Finalmente todos los datos obtenidos de dicho código de dicho proyecto quedaran
 
 # PÓSTER
 
-![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poste.jpg)
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/POSTER.jpg)
 
 
 
