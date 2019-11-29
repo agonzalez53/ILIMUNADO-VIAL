@@ -1,6 +1,12 @@
 # ILUMINADO-VIAL
 
-Alma Judith Gonzalez Montes 
+# Facultad de Ingenierìa Civil
+
+# Ingeniero Topògrafo Geomático
+
+# PE-ITP
+
+Alma Judith González Montes 
 correo electronico:
 galma0564@gmail.com
     
