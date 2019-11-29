@@ -1,13 +1,16 @@
 # ILIMUNADO-VIAL
 
 Alma Judith Gonzalez Montes 
-correo electronico: galma0564@gmail.com
+correo electronico:
+galma0564@gmail.com
     
 Daniel Alexander Peralta Landin
-correo electronico: dperalta1@ucol.mx
+correo electronico: 
+dperalta1@ucol.mx
 
 Héctor Daniel Rosales 
-correo electronico: hector_rome_15@outlook.com
+correo electronico:
+hector_rome_15@outlook.com
 
 # Resumen
 
@@ -121,6 +124,10 @@ Posteriormente ya que se ubicaron los punto  y se obtuvo el área en una base de
 Finalmente todos los datos obtenidos de dicho código de dicho proyecto quedaran guardados  en esta base de datos.
 
 # PÓSTER
+
+![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poste.jpg)
+
+
 
 
 
