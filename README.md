@@ -129,14 +129,23 @@ Finalmente todos los datos obtenidos de dicho código de dicho proyecto quedaran
 
 # CONLUCIONES
 
-Hector Daniel Rosales Medina
-En este proyecto tube la oportunidad de trabajar con un codigo, el cual note que puede ser muy eficiente al momento de que necesitamos que algo se haga de una manera automaizada, principalmente para ahorrar tiempo y para evitar errores en el manejo de estos datos. En lo personal considero que el proyecto como tal puede traer un fin postivo a la sociedad, esto por el estudio que se realizo con anterioridad y por supuesto por la informacion que se recuepra de este estudio.
+# Hector Daniel Rosales Medina
 
-Daniel Alexandro Peralta Landin
-Este proyecto me ayudo mucho en la materia de programación, esto debido a que en la necesidad de crear un programa que automatice los pasos para agilizar cualquier tratamiento de datos. En general el proyecto me ayudo en mejorar mis habilidades con PyQGIS, principalmente por que no había utilizado todos estos pasos en un proyecto real, pero al poco tiempo de estar trabajando en este proyecto me percate de mis debilidades y fortalezas en el área. 
+En este proyecto tube la oportunidad de trabajar con un codigo, el cual note que puede ser muy eficiente al momento de que necesitamos que algo se haga de una manera automaizada, principalmente para ahorrar tiempo y para evitar errores en el manejo de estos datos.
 
-Alma Judith Gonzalez Montes
+En lo personal considero que el proyecto como tal puede traer un fin postivo a la sociedad, esto por el estudio que se realizo con anterioridad y por supuesto por la informacion que se recuepra de este estudio.
+
+# Daniel Alexandro Peralta Landin
+
+Este proyecto me ayudo mucho en la materia de programación, esto debido a que en la necesidad de crear un programa que automatice los pasos para agilizar cualquier tratamiento de datos. 
+
+En general el proyecto me ayudo en mejorar mis habilidades con PyQGIS, principalmente por que no había utilizado todos estos pasos en un proyecto real, pero al poco tiempo de estar trabajando en este proyecto me percate de mis debilidades y fortalezas en el área. 
+
+# Alma Judith Gonzalez Montes
+
 En este proyecto se puede concluir que puede ser muy útil el código elaborado en cuanto beneficio a la sociedad para resolver un problema de alumbrado público como fue en esta ocasión o también puede funcionar con todos los servicios públicos para una comunidad. Esto agilizará las cosas para que puedan tener una respuesta más pronta y que sus necesidades sean tomadas en cuenta de inmediato.
+
+
 En cuanto a la elaboración de dicho producto fue un poco complicado para nosotros elaborarlo ya que no es muy sencillo delimitar ciertos aspectos que sin necesarios.
 
 
