@@ -81,11 +81,11 @@ El programa tomara los datos recaba-dos de archivos vectoriales, que el usuario 
 
 Archivo vectorial de la mancha urbana del municipio de Coquimatlán.
 
-2.	Plataforma
+# 2.	Plataforma
 
 Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma.
 
-3.	Programas
+# 3.	Programas
 
 El programa que tiene una gran rele-vancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de li-brerías que podrán facilitar estos proce-dimientos.
 
