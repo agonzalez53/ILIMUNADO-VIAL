@@ -115,11 +115,11 @@ El programa tomara los datos recaba-dos de archivos vectoriales para que puedan 
 
 Archivo vectorial de la mancha urbana del municipio de Coquimatlán.
 
-2.	Plataforma
+# 2.	Plataforma
 
-Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma y tenga un mejor funcionamientopara que sea muy util, no solo con ciertos ountos si no que abarque la mayo parte de ella.
+Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma y tenga un mejor funcionamiento para que sea muy util, no solo con ciertos puntos si no que abarque la mayor parte de ella.
 
-3.	Programas
+# 3.	Programas
 
 El programa que tiene una gran rele-vancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de li-brerías que podrán facilitar estos proce-dimientos. 
 
@@ -129,14 +129,15 @@ Dentro de este software se esncuentra el Python que es en el que se va manejar e
 
 # Tratamiento de datos
 
-El programa tomara los datos recabados de archivos vectoriales, que el usuario ingrese en este, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado.
+El programa tomara los datos recaba-dos de archivos vectoriales para que puedan ser procesados en el software PyQgis, el usuario ingresara en este y puedan llevar el mejor manejo adecuado para obtener resultados satisfactorios, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado y que la finalidad de esta es que sea de buen provecho para que esa área sea iluminada y puedan tener una seguridad los habitantes de la comunidad, que en realidad es para ellos y esten de una manera seguros que tendran la iluminacion adecuada
 
 ![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poli.jpg)
 
 Archivo vectorial de la mancha urbana del muni-cipio de Coquimatlán.
 
-Se pretende que este programa funcioné con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma.
-Programas
+Se pretende que este programa funcioné con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma y tenga un mejor funcionamiento para que sea muy util, no solo con ciertos puntos si no que abarque la mayor parte de ella.
+
+# Programas
 El programa que tiene una gran relevancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de librerías que podrán facilitar estos procedimientos.
 
 Las coordenadas que se mandan llamar por medio de un código ya establecido hacen que se relacionen con  lugares en la tierra reales. La decisión sobre el sistema de proyecciones y el sistema de coordenadas de referencia a usar depende de la zona que se desea trabajar, del análisis que se pretende hacer y  a menudo de la disponibilidad.
@@ -225,12 +226,4 @@ En general el proyecto me ayudo en mejorar mis habilidades con PyQGIS, principal
 
 En este proyecto se puede concluir que puede ser muy útil el código elaborado en cuanto beneficio a la sociedad para resolver un problema de alumbrado público como fue en esta ocasión o también puede funcionar con todos los servicios públicos para una comunidad. Esto agilizará las cosas para que puedan tener una respuesta más pronta y que sus necesidades sean tomadas en cuenta de inmediato.
 
-
-En cuanto a la elaboración de dicho producto fue un poco complicado para nosotros elaborarlo ya que no es muy sencillo delimitar ciertos aspectos que sin necesarios.
-
-
-
-
-
-
-
+En cuanto a la elaboración de dicho producto fue un poco complicado para nosotros elaborarlo ya que no es muy sencillo delimitar ciertos aspectos que son necesarios para que el programa funcione y vaya compilando paraq ue no resulte error.
