@@ -20,15 +20,25 @@ hector_rome_15@outlook.com
 
 # Resumen
 
-Se proporciona una plantilla a los autores así como instrucciones sobre el proceso editorial y el formato del texto, las ilustraciones y las referencias biblográficas.
-Palabras clave: Plantilla de artículo. Instrucciones para los autores. 
+Para este trabajo se realizara un programa para sacar el area donde sea la mejor manera de instalar ilumidado vial en una zona que padese de iluminado en el Municipio de Coquimatlán, con ayuda de el PyQgis y un administrador de Windows.
+
+El programa tomara los datos recaba-dos de archivos vectoriales, que el usuario ingrese en este, de esta manera las instrucciones en el código se guirán hasta que se obtenga lo buscado.
+
+Palabras clave: Iluminado, Vertoriales, PyQgis, Windows, usiario. . 
 
 # Abstract
 
-An article template and instructions on the editorial process and the text, figure and references format are provided.
-Keywords: Article template. Author’s instructions.
+For this job a program is carried out to remove the area where the best way to install illuminated roads is in an area that suffers from lighting in the Municipality of Coquimatlán, with the help of PyQgis and a Windows administrator.
+
+The program will take the data collected from experienced files, which the user enters into it, in this way the instructions in the code will be guided until the desired thing is obtained.
+
+Keywords: Illuminated, Vertorial, PyQgis, Windows, user. 
 
 # 1. 	Introduction 
+
+QGIS es un excelente software para la manipulación de archivos espaciales y a ello se le suma Python como un lenguaje de programación que está siendo usado para múltiples fines, presentándose así el caso de Python en QGIS, que de una manera rápida mediante scripts podemos tener visualizaciones y resultados de procesos en pocos segundos, además las configuraciones que se hacen en la consola de Python pueden ser guardadas para futuros proyectos ahorrando tiempo y automatizando nuestras actividades.
+
+
 
 La iluminación vial juega un papel muy impor-tante en la sociedad pues con ella se pretende mantener visibilidad en la mayor parte de las calles de una ciudad o población, lo que puede ayudar a la seguridad de las personas.
 
