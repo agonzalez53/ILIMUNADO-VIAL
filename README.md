@@ -117,11 +117,13 @@ Archivo vectorial de la mancha urbana del municipio de Coquimatlán.
 
 2.	Plataforma
 
-Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma.
+Se pretende que este programa funcio-né con la plataforma Windows, anqué se espera que para poder aumentar el uso de este programa se convierta en multiplataforma y tenga un mejor funcionamientopara que sea muy util, no solo con ciertos ountos si no que abarque la mayo parte de ella.
 
 3.	Programas
 
-El programa que tiene una gran rele-vancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de li-brerías que podrán facilitar estos proce-dimientos.
+El programa que tiene una gran rele-vancia en este proyecto es el de PyQgis. Esto por  la gran cantidad de li-brerías que podrán facilitar estos proce-dimientos. 
+
+Dentro de este software se esncuentra el Python que es en el que se va manejar el codgo y se iran procesando los datos  necesarios paar utilizar y encontrar el area y los mejores punto para la intalacion de laparas en la colonia del Municipio de Coquimatlán.
 
 # 2.2. 	Resultados
 
