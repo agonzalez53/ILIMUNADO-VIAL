@@ -38,11 +38,25 @@ Keywords: Illuminated, Vertorial, PyQgis, Windows, user.
 
 QGIS es un excelente software para la manipulación de archivos espaciales y a ello se le suma Python como un lenguaje de programación que está siendo usado para múltiples fines, presentándose así el caso de Python en QGIS, que de una manera rápida mediante scripts podemos tener visualizaciones y resultados de procesos en pocos segundos, además las configuraciones que se hacen en la consola de Python pueden ser guardadas para futuros proyectos ahorrando tiempo y automatizando nuestras actividades.
 
+Como es sabido, QGIS es un Sistema de Información Geográfica (GIS, por su referencia en inglés) de código libre para plataformas GNU/Linux, Unix, Mac OS y Microsoft Windows, que resulta amigable al usuario.
 
+QGIS nos permite crear, visualizar y manejar datos de un mapa en el ordenador. Este software soporta formatos del tipo vector y ráster a través de las bibliotecas GDAL y OGR, así como bases de datos (que pueden ser extensibles p. ejm. desde PostgreSQL y PostGIS), al igual que algunos de los formatos comunes de datos espaciales (p. ejm.: ESRI ShapeFile, geotiff).
+
+Así mismo, QGIS nos permite ampliar las herramientas y capacidades estándar con las que cuenta a través del uso y desarrollo de complementos.
+
+El desarrollo de complementos o aplicaciones personalizadas en PyQGIS está basado en el uso de la QGIS API (Interfaz de programación de aplicaciones de QGIS, por sus siglas en inglés), la misma que cuenta con diferentes métodos que se integran en clases, las que a su vez están comprendidas en 5 módulos.
+
+Python es un lenguaje de programación poderoso y fácil de aprender. Cuenta con estructuras de datos eficientes y de alto nivel y un enfoque simple pero efectivo a la programación orientada a objetos. 
+
+La elegante sintaxis de Python y su tipado dinámico, junto con su naturaleza interpretada, hacen de éste un lenguaje ideal para scripting y desarrollo rápido de aplicaciones en diversas áreas y sobre la mayoría de las plataformas.
+
+El intérprete de Python y la extensa biblioteca estándar están a libre disposición en forma binaria y de código fuente para las principales plataformas desde el sitio web de Python, puede distribuirse libremente. El mismo sitio contiene también distribuciones y enlaces de muchos módulos libres de Python de terceros, programas y herramientas, y documentación adicional.
+
+El intérprete de Python puede extenderse fácilmente con nuevas funcionalidades y tipos de datos implementados en C o C++ (u otros lenguajes accesibles desde C). Python también puede usarse como un lenguaje de extensiones para aplicaciones personalizables.
 
 La iluminación vial juega un papel muy impor-tante en la sociedad pues con ella se pretende mantener visibilidad en la mayor parte de las calles de una ciudad o población, lo que puede ayudar a la seguridad de las personas.
 
-Con este proyecto se busca la mejora de las lámparas para que estas ayuden a obtener el objetivo que estas tienen. Si es que alcanzan a abarcar la mayor área posible y también mejorar el rendimiento y menor gastos en la electricidad. Todo esto en el municipio de coquimatlan en la zona centro
+Con este proyecto se busca la mejora de las lámparas para que estas ayuden a obtener el objetivo que estas tienen. Si es que alcanzan a abarcar la mayor área posible y también mejorar el rendimiento y menor gastos en la electricidad. Todo esto en el municipio de coquimatlan en la zona centro.
 
 # 2. 	Desarrollo
 
