@@ -1,8 +1,8 @@
 # ILUMINADO-VIAL
 
-# Facultad de Ingenierìa Civil
+# Facultad de IngenierÌa Civil
 
-# Ingeniero Topògrafo Geomático
+# Ingeniero TopÓgrafo Geomático
 
 # PE-ITP
 
