@@ -40,6 +40,7 @@ QGIS es un excelente software para la manipulación de archivos espaciales y a e
 
 Como es sabido, QGIS es un Sistema de Información Geográfica (GIS, por su referencia en inglés) de código libre para plataformas GNU/Linux, Unix, Mac OS y Microsoft Windows, que resulta amigable al usuario.
 
+
 QGIS nos permite crear, visualizar y manejar datos de un mapa en el ordenador. Este software soporta formatos del tipo vector y ráster a través de las bibliotecas GDAL y OGR, así como bases de datos (que pueden ser extensibles p. ejm. desde PostgreSQL y PostGIS), al igual que algunos de los formatos comunes de datos espaciales (p. ejm.: ESRI ShapeFile, geotiff).
 
 Así mismo, QGIS nos permite ampliar las herramientas y capacidades estándar con las que cuenta a través del uso y desarrollo de complementos.
@@ -101,11 +102,14 @@ Actualmente los luminarios convencionales para el alumbrado público de vialidad
 
 * Eficiencia promedio del luminario de 80% con un alto coeficiente de utilización del lado calle para una mejor uniformidad del flujo luminoso enviado hacia la carpeta asfáltica.
 
+Mostrando el código que se generó en Python de PyQgis.
+
+
 # 2.1. 	Manejo de datos
 
 # 1.	Tratamiento de datos
 
-El programa tomara los datos recaba-dos de archivos vectoriales, que el usuario ingrese en este, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado.
+El programa tomara los datos recaba-dos de archivos vectoriales para que puedan ser procesados en el software PyQgis, el usuario ingresara en este y puedan llevar el mejor manejo adecuado para obtener resultados satisfactorios, de esta manera las instrucciones en el código seguirán hasta que se obtenga lo buscado y que la finalidad de esta es que sea de buen provecho para que esa área sea iluminada y puedan tener una seguridad los habitantes de la comunidad, que en realidad es para ellos y esten de una manera seguros que tendran la iluminacion adecuada .
 
 ![PalabrasdelTextoAlternativo](https://github.com/agonzalez53/ILIMUNADO-VIAL/blob/master/IMAGENES/poli.jpg)
 
